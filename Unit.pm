@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 use Mo qw(build is);
-use Mo::utils 0.15 qw(check_strings check_required);
+use Mo::utils 0.15 qw(check_required check_strings);
 use Readonly;
 use Unicode::UTF8 qw(decode_utf8);
 
