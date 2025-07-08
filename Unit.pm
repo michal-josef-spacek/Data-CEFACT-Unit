@@ -10,7 +10,7 @@ use Unicode::UTF8 qw(decode_utf8);
 
 Readonly::Array our @STATUSES => ('D', 'X', decode_utf8('¦'));
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 has common_code => (
 	is => 'ro',
@@ -272,6 +272,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
