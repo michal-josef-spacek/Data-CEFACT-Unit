@@ -7,8 +7,8 @@ use Test::NoWarnings;
 BEGIN {
 
 	# Test.
-	use_ok('Data::Cefact::Unit');
+	use_ok('Data::CEFACT::Unit');
 }
 
 # Test.
-require_ok('Data::Cefact::Unit');
+require_ok('Data::CEFACT::Unit');

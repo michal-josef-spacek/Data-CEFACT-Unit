@@ -1,4 +1,4 @@
-package Data::Cefact::Unit;
+package Data::CEFACT::Unit;
 
 use strict;
 use warnings;

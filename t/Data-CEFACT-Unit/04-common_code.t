@@ -1,12 +1,12 @@
 use strict;
 use warnings;
 
-use Data::Cefact::Unit;
+use Data::CEFACT::Unit;
 use Test::More 'tests' => 2;
 use Test::NoWarnings;
 
 # Test.
-my $obj = Data::Cefact::Unit->new(
+my $obj = Data::CEFACT::Unit->new(
 	'common_code' => 'KGM',
 	'conversion_factor' => 'kg',
 	'description' => 'A unit of mass equal to one thousand grams.',
