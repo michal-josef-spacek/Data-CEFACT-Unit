@@ -20,15 +20,15 @@ has conversion_factor => (
 	is => 'ro',
 );
 
-has name => (
-	is => 'ro',
-);
-
 has description => (
 	is => 'ro',
 );
 
 has level_category => (
+	is => 'ro',
+);
+
+has name => (
 	is => 'ro',
 );
 
