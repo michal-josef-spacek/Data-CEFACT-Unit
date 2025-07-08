@@ -20,6 +20,12 @@ t/Data-CEFACT-Unit/01-use.t
 t/Data-CEFACT-Unit/02-version.t
 t/Data-CEFACT-Unit/03-new.t
 t/Data-CEFACT-Unit/04-common_code.t
+t/Data-CEFACT-Unit/05-conversion_factor.t
+t/Data-CEFACT-Unit/06-description.t
+t/Data-CEFACT-Unit/07-level_category.t
+t/Data-CEFACT-Unit/08-name.t
+t/Data-CEFACT-Unit/09-status.t
+t/Data-CEFACT-Unit/10-symbol.t
 Unit.pm
 xt/Data-CEFACT-Unit/01-pod_coverage.t
 xt/Data-CEFACT-Unit/02-pod.t
